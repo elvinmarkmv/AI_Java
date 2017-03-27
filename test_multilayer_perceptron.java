@@ -2,7 +2,7 @@ import java.awt.image.*;
 import java.io.*;	
 import javax.imageio.*;
 
-public class test
+public class test_multilayer_perceptron
 {
 
 	public static void main(String args[])
